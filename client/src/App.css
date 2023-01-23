@@ -1,0 +1,29 @@
+img{
+  height:200px;
+  width:200px;
+}
+
+.images{
+  display:flex;
+  flex-flow:row wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+form h1,p{
+  text-align: center;
+}
+
+.custom-width-1{
+  width:auto;
+  max-width:295px;
+}
+.custom-width-2{
+  width:100%;
+}
