@@ -1,9 +1,11 @@
 # image-uploading-website
 
 **General Information**
+
 This is a simple client-server based website which allows the user to upload, delete and update an image on a server. It also lets the user to copy the link of each image.
 
 **Technologies**
+
 Front End (Client side):
 - ReactJS
 - Axios
@@ -14,6 +16,8 @@ Back End (Server side):
 - Multer
 
 **Setup**
+
+
 NOTE: For this application to run without any troubles, make sure that the ports 3000 and 3001 are not taken.
 1. Download and install ReactJS, NodeJS and npm
 2. Open a terminal/console in the "image-uploading-website" directory
